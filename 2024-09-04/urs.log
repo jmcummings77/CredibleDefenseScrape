@@ -1,0 +1,1311 @@
+[2024-09-04 13:00:29,249] [INFO]: INITIALIZING URS.
+[2024-09-04 13:00:29,249] [INFO]: 
+[2024-09-04 13:00:30,941] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:00:30,942] [INFO]: Remaining requests: 999.0
+[2024-09-04 13:00:30,942] [INFO]: Used requests: 1
+[2024-09-04 13:00:30,942] [INFO]: 
+[2024-09-04 13:00:30,943] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:00:30,943] [INFO]: 
+[2024-09-04 13:00:30,943] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:00:30,943] [INFO]: 
+[2024-09-04 13:00:30,944] [WARNING]: 
+[2024-09-04 13:00:30,944] [WARNING]: URS ABORTED BY USER.
+
+[2024-09-04 13:00:34,115] [INFO]: INITIALIZING URS.
+[2024-09-04 13:00:34,115] [INFO]: 
+[2024-09-04 13:00:35,381] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:00:35,381] [INFO]: Remaining requests: 998.0
+[2024-09-04 13:00:35,382] [INFO]: Used requests: 2
+[2024-09-04 13:00:35,382] [INFO]: 
+[2024-09-04 13:00:35,382] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:00:35,382] [INFO]: 
+[2024-09-04 13:00:35,382] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:00:35,382] [INFO]: 
+[2024-09-04 13:00:35,384] [INFO]: Validating submission(s)...
+[2024-09-04 13:00:35,384] [INFO]: 
+[2024-09-04 13:01:56,756] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:01:56,797] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xanmo1/credibledefense_daily_megathread_september_10_2022/...
+[2024-09-04 13:01:56,797] [INFO]: 
+[2024-09-04 13:01:56,797] [INFO]: COMMENTS SCRAPER FINISHED IN 81.41 SECONDS.
+[2024-09-04 13:01:56,797] [INFO]: 
+[2024-09-04 13:01:56,797] [INFO]: Exporting to JSON.
+[2024-09-04 13:01:56,797] [INFO]: 
+[2024-09-04 13:01:56,797] [INFO]: URS COMPLETED IN 82.68 SECONDS.
+
+[2024-09-04 13:01:57,262] [INFO]: INITIALIZING URS.
+[2024-09-04 13:01:57,262] [INFO]: 
+[2024-09-04 13:01:58,606] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:01:58,606] [INFO]: Remaining requests: 731.0
+[2024-09-04 13:01:58,606] [INFO]: Used requests: 269
+[2024-09-04 13:01:58,606] [INFO]: 
+[2024-09-04 13:01:58,607] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:01:58,608] [INFO]: 
+[2024-09-04 13:01:58,608] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:01:58,608] [INFO]: 
+[2024-09-04 13:01:58,613] [INFO]: Validating submission(s)...
+[2024-09-04 13:01:58,613] [INFO]: 
+[2024-09-04 13:02:56,711] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:02:56,748] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xpesk8/credibledefense_daily_megathread_september_27_2022/...
+[2024-09-04 13:02:56,749] [INFO]: 
+[2024-09-04 13:02:56,749] [INFO]: COMMENTS SCRAPER FINISHED IN 58.14 SECONDS.
+[2024-09-04 13:02:56,749] [INFO]: 
+[2024-09-04 13:02:56,749] [INFO]: Exporting to JSON.
+[2024-09-04 13:02:56,749] [INFO]: 
+[2024-09-04 13:02:56,749] [INFO]: URS COMPLETED IN 59.49 SECONDS.
+
+[2024-09-04 13:02:57,234] [INFO]: INITIALIZING URS.
+[2024-09-04 13:02:57,234] [INFO]: 
+[2024-09-04 13:02:58,422] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:02:58,423] [INFO]: Remaining requests: 565.0
+[2024-09-04 13:02:58,423] [INFO]: Used requests: 435
+[2024-09-04 13:02:58,423] [INFO]: 
+[2024-09-04 13:02:58,424] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:02:58,424] [INFO]: 
+[2024-09-04 13:02:58,425] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:02:58,425] [INFO]: 
+[2024-09-04 13:02:58,430] [INFO]: Validating submission(s)...
+[2024-09-04 13:02:58,430] [INFO]: 
+[2024-09-04 13:04:01,688] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:04:01,730] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xlvld5/credibledefense_daily_megathread_september_23_2022/...
+[2024-09-04 13:04:01,730] [INFO]: 
+[2024-09-04 13:04:01,730] [INFO]: COMMENTS SCRAPER FINISHED IN 63.31 SECONDS.
+[2024-09-04 13:04:01,730] [INFO]: 
+[2024-09-04 13:04:01,730] [INFO]: Exporting to JSON.
+[2024-09-04 13:04:01,730] [INFO]: 
+[2024-09-04 13:04:01,730] [INFO]: URS COMPLETED IN 64.50 SECONDS.
+
+[2024-09-04 13:04:02,206] [INFO]: INITIALIZING URS.
+[2024-09-04 13:04:02,207] [INFO]: 
+[2024-09-04 13:04:03,560] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:04:03,561] [INFO]: Remaining requests: 373.0
+[2024-09-04 13:04:03,561] [INFO]: Used requests: 627
+[2024-09-04 13:04:03,561] [INFO]: 
+[2024-09-04 13:04:03,562] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:04:03,563] [INFO]: 
+[2024-09-04 13:04:03,563] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:04:03,563] [INFO]: 
+[2024-09-04 13:04:03,568] [INFO]: Validating submission(s)...
+[2024-09-04 13:04:03,568] [INFO]: 
+[2024-09-04 13:07:04,733] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:07:04,775] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xbgq0b/credibledefense_daily_megathread_september_11_2022/...
+[2024-09-04 13:07:04,775] [INFO]: 
+[2024-09-04 13:07:04,775] [INFO]: COMMENTS SCRAPER FINISHED IN 181.21 SECONDS.
+[2024-09-04 13:07:04,775] [INFO]: 
+[2024-09-04 13:07:04,775] [INFO]: Exporting to JSON.
+[2024-09-04 13:07:04,775] [INFO]: 
+[2024-09-04 13:07:04,775] [INFO]: URS COMPLETED IN 182.57 SECONDS.
+
+[2024-09-04 13:07:05,286] [INFO]: INITIALIZING URS.
+[2024-09-04 13:07:05,286] [INFO]: 
+[2024-09-04 13:07:06,632] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:07:06,632] [INFO]: Remaining requests: 173.0
+[2024-09-04 13:07:06,632] [INFO]: Used requests: 827
+[2024-09-04 13:07:06,632] [INFO]: 
+[2024-09-04 13:07:06,633] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:07:06,633] [INFO]: 
+[2024-09-04 13:07:06,633] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:07:06,633] [INFO]: 
+[2024-09-04 13:07:06,636] [INFO]: Validating submission(s)...
+[2024-09-04 13:07:06,636] [INFO]: 
+[2024-09-04 13:07:47,480] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:07:47,516] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xe03sn/credibledefense_daily_megathread_september_14_2022/...
+[2024-09-04 13:07:47,517] [INFO]: 
+[2024-09-04 13:07:47,517] [INFO]: COMMENTS SCRAPER FINISHED IN 40.88 SECONDS.
+[2024-09-04 13:07:47,517] [INFO]: 
+[2024-09-04 13:07:47,517] [INFO]: Exporting to JSON.
+[2024-09-04 13:07:47,517] [INFO]: 
+[2024-09-04 13:07:47,517] [INFO]: URS COMPLETED IN 42.23 SECONDS.
+
+[2024-09-04 13:07:48,039] [INFO]: INITIALIZING URS.
+[2024-09-04 13:07:48,039] [INFO]: 
+[2024-09-04 13:07:49,292] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:07:49,292] [INFO]: Remaining requests: 130.0
+[2024-09-04 13:07:49,293] [INFO]: Used requests: 870
+[2024-09-04 13:07:49,293] [INFO]: 
+[2024-09-04 13:07:49,294] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:07:49,294] [INFO]: 
+[2024-09-04 13:07:49,294] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:07:49,294] [INFO]: 
+[2024-09-04 13:07:49,297] [INFO]: Validating submission(s)...
+[2024-09-04 13:07:49,297] [INFO]: 
+[2024-09-04 13:09:59,434] [CRITICAL]: AN ERROR HAS OCCURRED WHILE EXPORTING SCRAPED DATA.
+[2024-09-04 13:09:59,435] [CRITICAL]: received 429 HTTP response
+[2024-09-04 13:09:59,436] [CRITICAL]: ABORTING URS.
+
+[2024-09-04 13:10:00,155] [INFO]: INITIALIZING URS.
+[2024-09-04 13:10:00,155] [INFO]: 
+[2024-09-04 13:10:01,414] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:10:01,414] [INFO]: Remaining requests: 999.0
+[2024-09-04 13:10:01,414] [INFO]: Used requests: 1
+[2024-09-04 13:10:01,414] [INFO]: 
+[2024-09-04 13:10:01,415] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:10:01,416] [INFO]: 
+[2024-09-04 13:10:01,416] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:10:01,416] [INFO]: 
+[2024-09-04 13:10:01,422] [INFO]: Validating submission(s)...
+[2024-09-04 13:10:01,422] [INFO]: 
+[2024-09-04 13:10:18,732] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:10:18,764] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xohag8/credibledefense_daily_megathread_september_26_2022/...
+[2024-09-04 13:10:18,764] [INFO]: 
+[2024-09-04 13:10:18,764] [INFO]: COMMENTS SCRAPER FINISHED IN 17.35 SECONDS.
+[2024-09-04 13:10:18,764] [INFO]: 
+[2024-09-04 13:10:18,764] [INFO]: Exporting to JSON.
+[2024-09-04 13:10:18,764] [INFO]: 
+[2024-09-04 13:10:18,764] [INFO]: URS COMPLETED IN 18.61 SECONDS.
+
+[2024-09-04 13:10:19,266] [INFO]: INITIALIZING URS.
+[2024-09-04 13:10:19,266] [INFO]: 
+[2024-09-04 13:10:20,617] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:10:20,617] [INFO]: Remaining requests: 991.0
+[2024-09-04 13:10:20,617] [INFO]: Used requests: 9
+[2024-09-04 13:10:20,617] [INFO]: 
+[2024-09-04 13:10:20,618] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:10:20,618] [INFO]: 
+[2024-09-04 13:10:20,618] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:10:20,618] [INFO]: 
+[2024-09-04 13:10:20,622] [INFO]: Validating submission(s)...
+[2024-09-04 13:10:20,622] [INFO]: 
+[2024-09-04 13:11:34,478] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:11:34,524] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xj6v8c/credibledefense_daily_megathread_september_20_2022/...
+[2024-09-04 13:11:34,524] [INFO]: 
+[2024-09-04 13:11:34,524] [INFO]: COMMENTS SCRAPER FINISHED IN 73.91 SECONDS.
+[2024-09-04 13:11:34,524] [INFO]: 
+[2024-09-04 13:11:34,524] [INFO]: Exporting to JSON.
+[2024-09-04 13:11:34,524] [INFO]: 
+[2024-09-04 13:11:34,524] [INFO]: URS COMPLETED IN 75.26 SECONDS.
+
+[2024-09-04 13:11:35,041] [INFO]: INITIALIZING URS.
+[2024-09-04 13:11:35,041] [INFO]: 
+[2024-09-04 13:11:36,376] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:11:36,376] [INFO]: Remaining requests: 761.0
+[2024-09-04 13:11:36,376] [INFO]: Used requests: 239
+[2024-09-04 13:11:36,376] [INFO]: 
+[2024-09-04 13:11:36,377] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:11:36,377] [INFO]: 
+[2024-09-04 13:11:36,377] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:11:36,377] [INFO]: 
+[2024-09-04 13:11:36,379] [INFO]: Validating submission(s)...
+[2024-09-04 13:11:36,380] [INFO]: 
+[2024-09-04 13:11:55,373] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:11:55,405] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xkzew3/credibledefense_daily_megathread_september_22_2022/...
+[2024-09-04 13:11:55,405] [INFO]: 
+[2024-09-04 13:11:55,405] [INFO]: COMMENTS SCRAPER FINISHED IN 19.03 SECONDS.
+[2024-09-04 13:11:55,405] [INFO]: 
+[2024-09-04 13:11:55,405] [INFO]: Exporting to JSON.
+[2024-09-04 13:11:55,405] [INFO]: 
+[2024-09-04 13:11:55,405] [INFO]: URS COMPLETED IN 20.36 SECONDS.
+
+[2024-09-04 13:11:55,840] [INFO]: INITIALIZING URS.
+[2024-09-04 13:11:55,840] [INFO]: 
+[2024-09-04 13:11:57,690] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:11:57,691] [INFO]: Remaining requests: 752.0
+[2024-09-04 13:11:57,691] [INFO]: Used requests: 248
+[2024-09-04 13:11:57,691] [INFO]: 
+[2024-09-04 13:11:57,692] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:11:57,692] [INFO]: 
+[2024-09-04 13:11:57,692] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:11:57,692] [INFO]: 
+[2024-09-04 13:11:57,696] [INFO]: Validating submission(s)...
+[2024-09-04 13:11:57,697] [INFO]: 
+[2024-09-04 13:12:58,090] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:12:58,126] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xk2xfb/credibledefense_daily_megathread_september_21_2022/...
+[2024-09-04 13:12:58,126] [INFO]: 
+[2024-09-04 13:12:58,126] [INFO]: COMMENTS SCRAPER FINISHED IN 60.43 SECONDS.
+[2024-09-04 13:12:58,126] [INFO]: 
+[2024-09-04 13:12:58,126] [INFO]: Exporting to JSON.
+[2024-09-04 13:12:58,126] [INFO]: 
+[2024-09-04 13:12:58,126] [INFO]: URS COMPLETED IN 62.29 SECONDS.
+
+[2024-09-04 13:12:58,621] [INFO]: INITIALIZING URS.
+[2024-09-04 13:12:58,621] [INFO]: 
+[2024-09-04 13:12:59,885] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:12:59,885] [INFO]: Remaining requests: 573.0
+[2024-09-04 13:12:59,885] [INFO]: Used requests: 427
+[2024-09-04 13:12:59,886] [INFO]: 
+[2024-09-04 13:12:59,887] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:12:59,887] [INFO]: 
+[2024-09-04 13:12:59,887] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:12:59,887] [INFO]: 
+[2024-09-04 13:12:59,890] [INFO]: Validating submission(s)...
+[2024-09-04 13:12:59,890] [INFO]: 
+[2024-09-04 13:13:15,357] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:13:15,386] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xd5lqi/credibledefense_daily_megathread_september_13_2022/...
+[2024-09-04 13:13:15,386] [INFO]: 
+[2024-09-04 13:13:15,386] [INFO]: COMMENTS SCRAPER FINISHED IN 15.50 SECONDS.
+[2024-09-04 13:13:15,386] [INFO]: 
+[2024-09-04 13:13:15,386] [INFO]: Exporting to JSON.
+[2024-09-04 13:13:15,386] [INFO]: 
+[2024-09-04 13:13:15,386] [INFO]: URS COMPLETED IN 16.76 SECONDS.
+
+[2024-09-04 13:13:15,848] [INFO]: INITIALIZING URS.
+[2024-09-04 13:13:15,848] [INFO]: 
+[2024-09-04 13:13:17,195] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:13:17,195] [INFO]: Remaining requests: 561.0
+[2024-09-04 13:13:17,196] [INFO]: Used requests: 439
+[2024-09-04 13:13:17,196] [INFO]: 
+[2024-09-04 13:13:17,196] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:13:17,196] [INFO]: 
+[2024-09-04 13:13:17,196] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:13:17,196] [INFO]: 
+[2024-09-04 13:13:17,198] [INFO]: Validating submission(s)...
+[2024-09-04 13:13:17,198] [INFO]: 
+[2024-09-04 13:14:04,125] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:14:04,164] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xcawx5/credibledefense_daily_megathread_september_12_2022/...
+[2024-09-04 13:14:04,164] [INFO]: 
+[2024-09-04 13:14:04,164] [INFO]: COMMENTS SCRAPER FINISHED IN 46.97 SECONDS.
+[2024-09-04 13:14:04,164] [INFO]: 
+[2024-09-04 13:14:04,164] [INFO]: Exporting to JSON.
+[2024-09-04 13:14:04,164] [INFO]: 
+[2024-09-04 13:14:04,164] [INFO]: URS COMPLETED IN 48.32 SECONDS.
+
+[2024-09-04 13:14:04,639] [INFO]: INITIALIZING URS.
+[2024-09-04 13:14:04,639] [INFO]: 
+[2024-09-04 13:14:05,801] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:14:05,801] [INFO]: Remaining requests: 441.0
+[2024-09-04 13:14:05,801] [INFO]: Used requests: 559
+[2024-09-04 13:14:05,801] [INFO]: 
+[2024-09-04 13:14:05,802] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:14:05,802] [INFO]: 
+[2024-09-04 13:14:05,802] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:14:05,802] [INFO]: 
+[2024-09-04 13:14:05,805] [INFO]: Validating submission(s)...
+[2024-09-04 13:14:05,805] [INFO]: 
+[2024-09-04 13:14:29,350] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:14:29,386] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xqasd8/credibledefense_daily_megathread_september_28_2022/...
+[2024-09-04 13:14:29,386] [INFO]: 
+[2024-09-04 13:14:29,386] [INFO]: COMMENTS SCRAPER FINISHED IN 23.58 SECONDS.
+[2024-09-04 13:14:29,386] [INFO]: 
+[2024-09-04 13:14:29,386] [INFO]: Exporting to JSON.
+[2024-09-04 13:14:29,386] [INFO]: 
+[2024-09-04 13:14:29,386] [INFO]: URS COMPLETED IN 24.75 SECONDS.
+
+[2024-09-04 13:14:29,853] [INFO]: INITIALIZING URS.
+[2024-09-04 13:14:29,853] [INFO]: 
+[2024-09-04 13:14:31,105] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:14:31,105] [INFO]: Remaining requests: 420.0
+[2024-09-04 13:14:31,105] [INFO]: Used requests: 580
+[2024-09-04 13:14:31,105] [INFO]: 
+[2024-09-04 13:14:31,106] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:14:31,107] [INFO]: 
+[2024-09-04 13:14:31,107] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:14:31,107] [INFO]: 
+[2024-09-04 13:14:31,110] [INFO]: Validating submission(s)...
+[2024-09-04 13:14:31,110] [INFO]: 
+[2024-09-04 13:14:46,288] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:14:46,317] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xnlf9e/credibledefense_daily_megathread_september_25_2022/...
+[2024-09-04 13:14:46,317] [INFO]: 
+[2024-09-04 13:14:46,317] [INFO]: COMMENTS SCRAPER FINISHED IN 15.21 SECONDS.
+[2024-09-04 13:14:46,317] [INFO]: 
+[2024-09-04 13:14:46,317] [INFO]: Exporting to JSON.
+[2024-09-04 13:14:46,317] [INFO]: 
+[2024-09-04 13:14:46,317] [INFO]: URS COMPLETED IN 16.46 SECONDS.
+
+[2024-09-04 13:14:46,826] [INFO]: INITIALIZING URS.
+[2024-09-04 13:14:46,826] [INFO]: 
+[2024-09-04 13:14:48,000] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:14:48,001] [INFO]: Remaining requests: 415.0
+[2024-09-04 13:14:48,001] [INFO]: Used requests: 585
+[2024-09-04 13:14:48,001] [INFO]: 
+[2024-09-04 13:14:48,002] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:14:48,002] [INFO]: 
+[2024-09-04 13:14:48,002] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:14:48,002] [INFO]: 
+[2024-09-04 13:14:48,007] [INFO]: Validating submission(s)...
+[2024-09-04 13:14:48,007] [INFO]: 
+[2024-09-04 13:15:36,853] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:15:36,888] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xrzhq3/credibledefense_daily_megathread_september_30_2022/...
+[2024-09-04 13:15:36,888] [INFO]: 
+[2024-09-04 13:15:36,888] [INFO]: COMMENTS SCRAPER FINISHED IN 48.89 SECONDS.
+[2024-09-04 13:15:36,888] [INFO]: 
+[2024-09-04 13:15:36,888] [INFO]: Exporting to JSON.
+[2024-09-04 13:15:36,888] [INFO]: 
+[2024-09-04 13:15:36,888] [INFO]: URS COMPLETED IN 50.06 SECONDS.
+
+[2024-09-04 13:15:37,425] [INFO]: INITIALIZING URS.
+[2024-09-04 13:15:37,426] [INFO]: 
+[2024-09-04 13:15:38,775] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:15:38,775] [INFO]: Remaining requests: 298.0
+[2024-09-04 13:15:38,775] [INFO]: Used requests: 702
+[2024-09-04 13:15:38,776] [INFO]: 
+[2024-09-04 13:15:38,776] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:15:38,776] [INFO]: 
+[2024-09-04 13:15:38,776] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:15:38,776] [INFO]: 
+[2024-09-04 13:15:38,777] [INFO]: Validating submission(s)...
+[2024-09-04 13:15:38,777] [INFO]: 
+[2024-09-04 13:15:54,896] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:15:54,931] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/x83a94/credibledefense_daily_megathread_september_07_2022/...
+[2024-09-04 13:15:54,931] [INFO]: 
+[2024-09-04 13:15:54,931] [INFO]: COMMENTS SCRAPER FINISHED IN 16.15 SECONDS.
+[2024-09-04 13:15:54,931] [INFO]: 
+[2024-09-04 13:15:54,931] [INFO]: Exporting to JSON.
+[2024-09-04 13:15:54,931] [INFO]: 
+[2024-09-04 13:15:54,931] [INFO]: URS COMPLETED IN 17.51 SECONDS.
+
+[2024-09-04 13:15:55,482] [INFO]: INITIALIZING URS.
+[2024-09-04 13:15:55,482] [INFO]: 
+[2024-09-04 13:15:56,833] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:15:56,834] [INFO]: Remaining requests: 287.0
+[2024-09-04 13:15:56,834] [INFO]: Used requests: 713
+[2024-09-04 13:15:56,834] [INFO]: 
+[2024-09-04 13:15:56,835] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:15:56,835] [INFO]: 
+[2024-09-04 13:15:56,835] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:15:56,835] [INFO]: 
+[2024-09-04 13:15:56,838] [INFO]: Validating submission(s)...
+[2024-09-04 13:15:56,838] [INFO]: 
+[2024-09-04 13:16:20,287] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:16:20,321] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/x8ymrr/credibledefense_daily_megathread_september_08_2022/...
+[2024-09-04 13:16:20,321] [INFO]: 
+[2024-09-04 13:16:20,321] [INFO]: COMMENTS SCRAPER FINISHED IN 23.49 SECONDS.
+[2024-09-04 13:16:20,321] [INFO]: 
+[2024-09-04 13:16:20,321] [INFO]: Exporting to JSON.
+[2024-09-04 13:16:20,321] [INFO]: 
+[2024-09-04 13:16:20,321] [INFO]: URS COMPLETED IN 24.84 SECONDS.
+
+[2024-09-04 13:16:20,820] [INFO]: INITIALIZING URS.
+[2024-09-04 13:16:20,820] [INFO]: 
+[2024-09-04 13:16:22,084] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:16:22,085] [INFO]: Remaining requests: 260.0
+[2024-09-04 13:16:22,085] [INFO]: Used requests: 740
+[2024-09-04 13:16:22,085] [INFO]: 
+[2024-09-04 13:16:22,085] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:16:22,085] [INFO]: 
+[2024-09-04 13:16:22,085] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:16:22,085] [INFO]: 
+[2024-09-04 13:16:22,088] [INFO]: Validating submission(s)...
+[2024-09-04 13:16:22,088] [INFO]: 
+[2024-09-04 13:16:38,477] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:16:38,506] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/x78qnt/credibledefense_daily_megathread_september_06_2022/...
+[2024-09-04 13:16:38,506] [INFO]: 
+[2024-09-04 13:16:38,506] [INFO]: COMMENTS SCRAPER FINISHED IN 16.42 SECONDS.
+[2024-09-04 13:16:38,506] [INFO]: 
+[2024-09-04 13:16:38,506] [INFO]: Exporting to JSON.
+[2024-09-04 13:16:38,506] [INFO]: 
+[2024-09-04 13:16:38,506] [INFO]: URS COMPLETED IN 17.69 SECONDS.
+
+[2024-09-04 13:16:39,005] [INFO]: INITIALIZING URS.
+[2024-09-04 13:16:39,005] [INFO]: 
+[2024-09-04 13:16:40,187] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:16:40,187] [INFO]: Remaining requests: 248.0
+[2024-09-04 13:16:40,187] [INFO]: Used requests: 752
+[2024-09-04 13:16:40,187] [INFO]: 
+[2024-09-04 13:16:40,188] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:16:40,188] [INFO]: 
+[2024-09-04 13:16:40,188] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:16:40,188] [INFO]: 
+[2024-09-04 13:16:40,193] [INFO]: Validating submission(s)...
+[2024-09-04 13:16:40,193] [INFO]: 
+[2024-09-04 13:16:53,274] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:16:53,298] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xfpcyb/credibledefense_daily_megathread_september_16_2022/...
+[2024-09-04 13:16:53,298] [INFO]: 
+[2024-09-04 13:16:53,298] [INFO]: COMMENTS SCRAPER FINISHED IN 13.11 SECONDS.
+[2024-09-04 13:16:53,298] [INFO]: 
+[2024-09-04 13:16:53,298] [INFO]: Exporting to JSON.
+[2024-09-04 13:16:53,298] [INFO]: 
+[2024-09-04 13:16:53,298] [INFO]: URS COMPLETED IN 14.29 SECONDS.
+
+[2024-09-04 13:16:53,795] [INFO]: INITIALIZING URS.
+[2024-09-04 13:16:53,795] [INFO]: 
+[2024-09-04 13:16:55,050] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:16:55,050] [INFO]: Remaining requests: 241.0
+[2024-09-04 13:16:55,050] [INFO]: Used requests: 759
+[2024-09-04 13:16:55,051] [INFO]: 
+[2024-09-04 13:16:55,052] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:16:55,052] [INFO]: 
+[2024-09-04 13:16:55,052] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:16:55,052] [INFO]: 
+[2024-09-04 13:16:55,056] [INFO]: Validating submission(s)...
+[2024-09-04 13:16:55,056] [INFO]: 
+[2024-09-04 13:17:10,276] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:17:10,303] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xmqz3j/credibledefense_daily_megathread_september_24_2022/...
+[2024-09-04 13:17:10,303] [INFO]: 
+[2024-09-04 13:17:10,303] [INFO]: COMMENTS SCRAPER FINISHED IN 15.25 SECONDS.
+[2024-09-04 13:17:10,303] [INFO]: 
+[2024-09-04 13:17:10,303] [INFO]: Exporting to JSON.
+[2024-09-04 13:17:10,303] [INFO]: 
+[2024-09-04 13:17:10,303] [INFO]: URS COMPLETED IN 16.51 SECONDS.
+
+[2024-09-04 13:17:10,796] [INFO]: INITIALIZING URS.
+[2024-09-04 13:17:10,796] [INFO]: 
+[2024-09-04 13:17:12,060] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:17:12,061] [INFO]: Remaining requests: 238.0
+[2024-09-04 13:17:12,061] [INFO]: Used requests: 762
+[2024-09-04 13:17:12,061] [INFO]: 
+[2024-09-04 13:17:12,061] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:17:12,061] [INFO]: 
+[2024-09-04 13:17:12,061] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:17:12,061] [INFO]: 
+[2024-09-04 13:17:12,063] [INFO]: Validating submission(s)...
+[2024-09-04 13:17:12,063] [INFO]: 
+[2024-09-04 13:17:29,896] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:17:29,929] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xi9ztr/credibledefense_daily_megathread_september_19_2022/...
+[2024-09-04 13:17:29,929] [INFO]: 
+[2024-09-04 13:17:29,929] [INFO]: COMMENTS SCRAPER FINISHED IN 17.87 SECONDS.
+[2024-09-04 13:17:29,929] [INFO]: 
+[2024-09-04 13:17:29,929] [INFO]: Exporting to JSON.
+[2024-09-04 13:17:29,929] [INFO]: 
+[2024-09-04 13:17:29,929] [INFO]: URS COMPLETED IN 19.13 SECONDS.
+
+[2024-09-04 13:17:30,413] [INFO]: INITIALIZING URS.
+[2024-09-04 13:17:30,414] [INFO]: 
+[2024-09-04 13:17:32,170] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:17:32,170] [INFO]: Remaining requests: 221.0
+[2024-09-04 13:17:32,171] [INFO]: Used requests: 779
+[2024-09-04 13:17:32,171] [INFO]: 
+[2024-09-04 13:17:32,171] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:17:32,171] [INFO]: 
+[2024-09-04 13:17:32,171] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:17:32,171] [INFO]: 
+[2024-09-04 13:17:32,174] [INFO]: Validating submission(s)...
+[2024-09-04 13:17:32,174] [INFO]: 
+[2024-09-04 13:17:51,289] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:17:51,324] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xr5z9n/credibledefense_daily_megathread_september_29_2022/...
+[2024-09-04 13:17:51,324] [INFO]: 
+[2024-09-04 13:17:51,324] [INFO]: COMMENTS SCRAPER FINISHED IN 19.15 SECONDS.
+[2024-09-04 13:17:51,324] [INFO]: 
+[2024-09-04 13:17:51,324] [INFO]: Exporting to JSON.
+[2024-09-04 13:17:51,324] [INFO]: 
+[2024-09-04 13:17:51,324] [INFO]: URS COMPLETED IN 20.91 SECONDS.
+
+[2024-09-04 13:17:51,778] [INFO]: INITIALIZING URS.
+[2024-09-04 13:17:51,778] [INFO]: 
+[2024-09-04 13:17:52,950] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:17:52,950] [INFO]: Remaining requests: 213.0
+[2024-09-04 13:17:52,951] [INFO]: Used requests: 787
+[2024-09-04 13:17:52,951] [INFO]: 
+[2024-09-04 13:17:52,952] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:17:52,952] [INFO]: 
+[2024-09-04 13:17:52,952] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:17:52,952] [INFO]: 
+[2024-09-04 13:17:52,958] [INFO]: Validating submission(s)...
+[2024-09-04 13:17:52,958] [INFO]: 
+[2024-09-04 13:18:09,190] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:18:09,218] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xhet1e/credibledefense_daily_megathread_september_18_2022/...
+[2024-09-04 13:18:09,218] [INFO]: 
+[2024-09-04 13:18:09,218] [INFO]: COMMENTS SCRAPER FINISHED IN 16.27 SECONDS.
+[2024-09-04 13:18:09,218] [INFO]: 
+[2024-09-04 13:18:09,218] [INFO]: Exporting to JSON.
+[2024-09-04 13:18:09,218] [INFO]: 
+[2024-09-04 13:18:09,218] [INFO]: URS COMPLETED IN 17.44 SECONDS.
+
+[2024-09-04 13:18:09,731] [INFO]: INITIALIZING URS.
+[2024-09-04 13:18:09,731] [INFO]: 
+[2024-09-04 13:18:10,983] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:18:10,983] [INFO]: Remaining requests: 197.0
+[2024-09-04 13:18:10,983] [INFO]: Used requests: 803
+[2024-09-04 13:18:10,983] [INFO]: 
+[2024-09-04 13:18:10,985] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:18:10,985] [INFO]: 
+[2024-09-04 13:18:10,985] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:18:10,985] [INFO]: 
+[2024-09-04 13:18:10,991] [INFO]: Validating submission(s)...
+[2024-09-04 13:18:10,991] [INFO]: 
+[2024-09-04 13:18:22,067] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:18:22,093] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/x35s9o/credibledefense_daily_megathread_september_01_2022/...
+[2024-09-04 13:18:22,093] [INFO]: 
+[2024-09-04 13:18:22,093] [INFO]: COMMENTS SCRAPER FINISHED IN 11.11 SECONDS.
+[2024-09-04 13:18:22,093] [INFO]: 
+[2024-09-04 13:18:22,093] [INFO]: Exporting to JSON.
+[2024-09-04 13:18:22,093] [INFO]: 
+[2024-09-04 13:18:22,093] [INFO]: URS COMPLETED IN 12.36 SECONDS.
+
+[2024-09-04 13:18:22,575] [INFO]: INITIALIZING URS.
+[2024-09-04 13:18:22,575] [INFO]: 
+[2024-09-04 13:18:23,736] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:18:23,736] [INFO]: Remaining requests: 186.0
+[2024-09-04 13:18:23,736] [INFO]: Used requests: 814
+[2024-09-04 13:18:23,736] [INFO]: 
+[2024-09-04 13:18:23,736] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:18:23,736] [INFO]: 
+[2024-09-04 13:18:23,737] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:18:23,737] [INFO]: 
+[2024-09-04 13:18:23,739] [INFO]: Validating submission(s)...
+[2024-09-04 13:18:23,739] [INFO]: 
+[2024-09-04 13:18:37,850] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:18:37,874] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xeuzr2/credibledefense_daily_megathread_september_15_2022/...
+[2024-09-04 13:18:37,874] [INFO]: 
+[2024-09-04 13:18:37,874] [INFO]: COMMENTS SCRAPER FINISHED IN 14.14 SECONDS.
+[2024-09-04 13:18:37,874] [INFO]: 
+[2024-09-04 13:18:37,874] [INFO]: Exporting to JSON.
+[2024-09-04 13:18:37,874] [INFO]: 
+[2024-09-04 13:18:37,874] [INFO]: URS COMPLETED IN 15.30 SECONDS.
+
+[2024-09-04 13:18:38,366] [INFO]: INITIALIZING URS.
+[2024-09-04 13:18:38,366] [INFO]: 
+[2024-09-04 13:18:39,622] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:18:39,623] [INFO]: Remaining requests: 181.0
+[2024-09-04 13:18:39,623] [INFO]: Used requests: 819
+[2024-09-04 13:18:39,623] [INFO]: 
+[2024-09-04 13:18:39,624] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:18:39,624] [INFO]: 
+[2024-09-04 13:18:39,624] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:18:39,624] [INFO]: 
+[2024-09-04 13:18:39,628] [INFO]: Validating submission(s)...
+[2024-09-04 13:18:39,629] [INFO]: 
+[2024-09-04 13:18:51,505] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:18:51,526] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/x6eg1i/credibledefense_daily_megathread_september_05_2022/...
+[2024-09-04 13:18:51,526] [INFO]: 
+[2024-09-04 13:18:51,526] [INFO]: COMMENTS SCRAPER FINISHED IN 11.90 SECONDS.
+[2024-09-04 13:18:51,526] [INFO]: 
+[2024-09-04 13:18:51,526] [INFO]: Exporting to JSON.
+[2024-09-04 13:18:51,526] [INFO]: 
+[2024-09-04 13:18:51,526] [INFO]: URS COMPLETED IN 13.16 SECONDS.
+
+[2024-09-04 13:18:52,008] [INFO]: INITIALIZING URS.
+[2024-09-04 13:18:52,008] [INFO]: 
+[2024-09-04 13:18:53,435] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:18:53,436] [INFO]: Remaining requests: 173.0
+[2024-09-04 13:18:53,436] [INFO]: Used requests: 827
+[2024-09-04 13:18:53,436] [INFO]: 
+[2024-09-04 13:18:53,437] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:18:53,437] [INFO]: 
+[2024-09-04 13:18:53,437] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:18:53,437] [INFO]: 
+[2024-09-04 13:18:53,442] [INFO]: Validating submission(s)...
+[2024-09-04 13:18:53,442] [INFO]: 
+[2024-09-04 13:19:14,206] [WARNING]: Retrying due to ConnectionError(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out.")) status: GET https://oauth.reddit.com/comments/xgkmeq/
+[2024-09-04 13:19:26,128] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:19:26,152] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/xgkmeq/credibledefense_daily_megathread_september_17_2022/...
+[2024-09-04 13:19:26,152] [INFO]: 
+[2024-09-04 13:19:26,152] [INFO]: COMMENTS SCRAPER FINISHED IN 32.71 SECONDS.
+[2024-09-04 13:19:26,152] [INFO]: 
+[2024-09-04 13:19:26,152] [INFO]: Exporting to JSON.
+[2024-09-04 13:19:26,152] [INFO]: 
+[2024-09-04 13:19:26,152] [INFO]: URS COMPLETED IN 34.14 SECONDS.
+
+[2024-09-04 13:19:26,619] [INFO]: INITIALIZING URS.
+[2024-09-04 13:19:26,619] [INFO]: 
+[2024-09-04 13:19:43,267] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:19:43,267] [INFO]: Remaining requests: 165.0
+[2024-09-04 13:19:43,267] [INFO]: Used requests: 835
+[2024-09-04 13:19:43,268] [INFO]: 
+[2024-09-04 13:19:43,269] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:19:43,269] [INFO]: 
+[2024-09-04 13:19:43,269] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:19:43,269] [INFO]: 
+[2024-09-04 13:19:43,270] [INFO]: Validating submission(s)...
+[2024-09-04 13:19:43,270] [INFO]: 
+[2024-09-04 13:19:53,260] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:19:53,281] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/x3zozu/credibledefense_daily_megathread_september_02_2022/...
+[2024-09-04 13:19:53,281] [INFO]: 
+[2024-09-04 13:19:53,281] [INFO]: COMMENTS SCRAPER FINISHED IN 10.01 SECONDS.
+[2024-09-04 13:19:53,281] [INFO]: 
+[2024-09-04 13:19:53,281] [INFO]: Exporting to JSON.
+[2024-09-04 13:19:53,281] [INFO]: 
+[2024-09-04 13:19:53,281] [INFO]: URS COMPLETED IN 26.66 SECONDS.
+
+[2024-09-04 13:22:02,131] [INFO]: INITIALIZING URS.
+[2024-09-04 13:22:02,132] [INFO]: 
+[2024-09-04 13:22:03,460] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:22:03,460] [INFO]: Remaining requests: 999.0
+[2024-09-04 13:22:03,460] [INFO]: Used requests: 1
+[2024-09-04 13:22:03,460] [INFO]: 
+[2024-09-04 13:22:03,461] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:22:03,461] [INFO]: 
+[2024-09-04 13:22:03,461] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:22:03,461] [INFO]: 
+[2024-09-04 13:22:03,464] [INFO]: Validating submission(s)...
+[2024-09-04 13:22:03,464] [INFO]: 
+[2024-09-04 13:22:12,217] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:22:12,239] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/x4spum/credibledefense_daily_megathread_september_03_2022/...
+[2024-09-04 13:22:12,239] [INFO]: 
+[2024-09-04 13:22:12,239] [INFO]: COMMENTS SCRAPER FINISHED IN 8.78 SECONDS.
+[2024-09-04 13:22:12,239] [INFO]: 
+[2024-09-04 13:22:12,239] [INFO]: Exporting to JSON.
+[2024-09-04 13:22:12,239] [INFO]: 
+[2024-09-04 13:22:12,239] [INFO]: URS COMPLETED IN 10.11 SECONDS.
+
+[2024-09-04 13:22:22,639] [INFO]: INITIALIZING URS.
+[2024-09-04 13:22:22,639] [INFO]: 
+[2024-09-04 13:22:23,976] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:22:23,976] [INFO]: Remaining requests: 993.0
+[2024-09-04 13:22:23,976] [INFO]: Used requests: 7
+[2024-09-04 13:22:23,976] [INFO]: 
+[2024-09-04 13:22:23,977] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:22:23,977] [INFO]: 
+[2024-09-04 13:22:23,977] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:22:23,977] [INFO]: 
+[2024-09-04 13:22:23,979] [INFO]: Validating submission(s)...
+[2024-09-04 13:22:23,979] [INFO]: 
+[2024-09-04 13:22:31,322] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:22:31,340] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/x5l9wa/credibledefense_daily_megathread_september_04_2022/...
+[2024-09-04 13:22:31,340] [INFO]: 
+[2024-09-04 13:22:31,340] [INFO]: COMMENTS SCRAPER FINISHED IN 7.36 SECONDS.
+[2024-09-04 13:22:31,340] [INFO]: 
+[2024-09-04 13:22:31,340] [INFO]: Exporting to JSON.
+[2024-09-04 13:22:31,341] [INFO]: 
+[2024-09-04 13:22:31,341] [INFO]: URS COMPLETED IN 8.70 SECONDS.
+
+[2024-09-04 13:22:58,253] [INFO]: INITIALIZING URS.
+[2024-09-04 13:22:58,253] [INFO]: 
+[2024-09-04 13:22:59,421] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:22:59,422] [INFO]: Remaining requests: 989.0
+[2024-09-04 13:22:59,422] [INFO]: Used requests: 11
+[2024-09-04 13:22:59,422] [INFO]: 
+[2024-09-04 13:22:59,423] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:22:59,423] [INFO]: 
+[2024-09-04 13:22:59,423] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:22:59,423] [INFO]: 
+[2024-09-04 13:22:59,426] [INFO]: Validating submission(s)...
+[2024-09-04 13:22:59,426] [INFO]: 
+[2024-09-04 13:23:01,614] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:23:01,621] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/1f6crg9/credibledefense_daily_megathread_september_01_2024/...
+[2024-09-04 13:23:01,621] [INFO]: 
+[2024-09-04 13:23:01,621] [INFO]: COMMENTS SCRAPER FINISHED IN 2.20 SECONDS.
+[2024-09-04 13:23:01,621] [INFO]: 
+[2024-09-04 13:23:01,621] [INFO]: Exporting to JSON.
+[2024-09-04 13:23:01,621] [INFO]: 
+[2024-09-04 13:23:01,621] [INFO]: URS COMPLETED IN 3.37 SECONDS.
+
+[2024-09-04 13:23:05,207] [INFO]: INITIALIZING URS.
+[2024-09-04 13:23:05,207] [INFO]: 
+[2024-09-04 13:23:06,378] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:23:06,378] [INFO]: Remaining requests: 986.0
+[2024-09-04 13:23:06,378] [INFO]: Used requests: 14
+[2024-09-04 13:23:06,378] [INFO]: 
+[2024-09-04 13:23:06,378] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:23:06,379] [INFO]: 
+[2024-09-04 13:23:06,379] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:23:06,379] [INFO]: 
+[2024-09-04 13:23:06,380] [INFO]: Validating submission(s)...
+[2024-09-04 13:23:06,380] [INFO]: 
+[2024-09-04 13:23:10,401] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:23:10,413] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/1f74zii/credibledefense_daily_megathread_september_02_2024/...
+[2024-09-04 13:23:10,413] [INFO]: 
+[2024-09-04 13:23:10,413] [INFO]: COMMENTS SCRAPER FINISHED IN 4.03 SECONDS.
+[2024-09-04 13:23:10,413] [INFO]: 
+[2024-09-04 13:23:10,413] [INFO]: Exporting to JSON.
+[2024-09-04 13:23:10,413] [INFO]: 
+[2024-09-04 13:23:10,413] [INFO]: URS COMPLETED IN 5.21 SECONDS.
+
+[2024-09-04 13:24:47,082] [INFO]: INITIALIZING URS.
+[2024-09-04 13:24:47,083] [INFO]: 
+[2024-09-04 13:24:48,508] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:24:48,508] [INFO]: Remaining requests: 983.0
+[2024-09-04 13:24:48,508] [INFO]: Used requests: 17
+[2024-09-04 13:24:48,508] [INFO]: 
+[2024-09-04 13:24:48,510] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:24:48,510] [INFO]: 
+[2024-09-04 13:24:48,510] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:24:48,510] [INFO]: 
+[2024-09-04 13:24:48,516] [INFO]: Validating submission(s)...
+[2024-09-04 13:24:48,516] [INFO]: 
+[2024-09-04 13:24:59,120] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:24:59,144] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16oe0xb/credibledefense_daily_megathread_september_21_2023/...
+[2024-09-04 13:24:59,144] [INFO]: 
+[2024-09-04 13:24:59,144] [INFO]: COMMENTS SCRAPER FINISHED IN 10.63 SECONDS.
+[2024-09-04 13:24:59,144] [INFO]: 
+[2024-09-04 13:24:59,144] [INFO]: Exporting to JSON.
+[2024-09-04 13:24:59,144] [INFO]: 
+[2024-09-04 13:24:59,144] [INFO]: URS COMPLETED IN 12.06 SECONDS.
+
+[2024-09-04 13:24:59,657] [INFO]: INITIALIZING URS.
+[2024-09-04 13:24:59,657] [INFO]: 
+[2024-09-04 13:25:00,838] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:25:00,839] [INFO]: Remaining requests: 975.0
+[2024-09-04 13:25:00,839] [INFO]: Used requests: 25
+[2024-09-04 13:25:00,839] [INFO]: 
+[2024-09-04 13:25:00,840] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:25:00,840] [INFO]: 
+[2024-09-04 13:25:00,840] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:25:00,840] [INFO]: 
+[2024-09-04 13:25:00,845] [INFO]: Validating submission(s)...
+[2024-09-04 13:25:00,845] [INFO]: 
+[2024-09-04 13:25:09,908] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:25:09,931] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16rq3sn/credibledefense_daily_megathread_september_25_2023/...
+[2024-09-04 13:25:09,931] [INFO]: 
+[2024-09-04 13:25:09,931] [INFO]: COMMENTS SCRAPER FINISHED IN 9.09 SECONDS.
+[2024-09-04 13:25:09,931] [INFO]: 
+[2024-09-04 13:25:09,931] [INFO]: Exporting to JSON.
+[2024-09-04 13:25:09,931] [INFO]: 
+[2024-09-04 13:25:09,931] [INFO]: URS COMPLETED IN 10.27 SECONDS.
+
+[2024-09-04 13:25:10,547] [INFO]: INITIALIZING URS.
+[2024-09-04 13:25:10,547] [INFO]: 
+[2024-09-04 13:25:11,818] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:25:11,819] [INFO]: Remaining requests: 970.0
+[2024-09-04 13:25:11,819] [INFO]: Used requests: 30
+[2024-09-04 13:25:11,819] [INFO]: 
+[2024-09-04 13:25:11,820] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:25:11,820] [INFO]: 
+[2024-09-04 13:25:11,820] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:25:11,820] [INFO]: 
+[2024-09-04 13:25:11,827] [INFO]: Validating submission(s)...
+[2024-09-04 13:25:11,827] [INFO]: 
+[2024-09-04 13:25:20,343] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:25:20,365] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/168v7by/credibledefense_daily_megathread_september_03_2023/...
+[2024-09-04 13:25:20,365] [INFO]: 
+[2024-09-04 13:25:20,365] [INFO]: COMMENTS SCRAPER FINISHED IN 8.55 SECONDS.
+[2024-09-04 13:25:20,365] [INFO]: 
+[2024-09-04 13:25:20,365] [INFO]: Exporting to JSON.
+[2024-09-04 13:25:20,365] [INFO]: 
+[2024-09-04 13:25:20,365] [INFO]: URS COMPLETED IN 9.82 SECONDS.
+
+[2024-09-04 13:25:20,867] [INFO]: INITIALIZING URS.
+[2024-09-04 13:25:20,867] [INFO]: 
+[2024-09-04 13:25:22,216] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:25:22,216] [INFO]: Remaining requests: 965.0
+[2024-09-04 13:25:22,216] [INFO]: Used requests: 35
+[2024-09-04 13:25:22,216] [INFO]: 
+[2024-09-04 13:25:22,217] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:25:22,217] [INFO]: 
+[2024-09-04 13:25:22,217] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:25:22,217] [INFO]: 
+[2024-09-04 13:25:22,219] [INFO]: Validating submission(s)...
+[2024-09-04 13:25:22,219] [INFO]: 
+[2024-09-04 13:25:30,313] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:25:30,334] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16slvq7/credibledefense_daily_megathread_september_26_2023/...
+[2024-09-04 13:25:30,334] [INFO]: 
+[2024-09-04 13:25:30,334] [INFO]: COMMENTS SCRAPER FINISHED IN 8.12 SECONDS.
+[2024-09-04 13:25:30,334] [INFO]: 
+[2024-09-04 13:25:30,334] [INFO]: Exporting to JSON.
+[2024-09-04 13:25:30,334] [INFO]: 
+[2024-09-04 13:25:30,334] [INFO]: URS COMPLETED IN 9.47 SECONDS.
+
+[2024-09-04 13:25:30,785] [INFO]: INITIALIZING URS.
+[2024-09-04 13:25:30,785] [INFO]: 
+[2024-09-04 13:25:32,033] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:25:32,033] [INFO]: Remaining requests: 958.0
+[2024-09-04 13:25:32,033] [INFO]: Used requests: 42
+[2024-09-04 13:25:32,033] [INFO]: 
+[2024-09-04 13:25:32,034] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:25:32,034] [INFO]: 
+[2024-09-04 13:25:32,034] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:25:32,034] [INFO]: 
+[2024-09-04 13:25:32,035] [INFO]: Validating submission(s)...
+[2024-09-04 13:25:32,035] [INFO]: 
+[2024-09-04 13:25:40,873] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:25:40,895] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16mp2do/credibledefense_daily_megathread_september_19_2023/...
+[2024-09-04 13:25:40,895] [INFO]: 
+[2024-09-04 13:25:40,895] [INFO]: COMMENTS SCRAPER FINISHED IN 8.86 SECONDS.
+[2024-09-04 13:25:40,895] [INFO]: 
+[2024-09-04 13:25:40,895] [INFO]: Exporting to JSON.
+[2024-09-04 13:25:40,895] [INFO]: 
+[2024-09-04 13:25:40,895] [INFO]: URS COMPLETED IN 10.11 SECONDS.
+
+[2024-09-04 13:25:41,345] [INFO]: INITIALIZING URS.
+[2024-09-04 13:25:41,345] [INFO]: 
+[2024-09-04 13:25:42,696] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:25:42,697] [INFO]: Remaining requests: 951.0
+[2024-09-04 13:25:42,697] [INFO]: Used requests: 49
+[2024-09-04 13:25:42,697] [INFO]: 
+[2024-09-04 13:25:42,698] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:25:42,698] [INFO]: 
+[2024-09-04 13:25:42,698] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:25:42,699] [INFO]: 
+[2024-09-04 13:25:42,704] [INFO]: Validating submission(s)...
+[2024-09-04 13:25:42,704] [INFO]: 
+[2024-09-04 13:25:51,725] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:25:51,747] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16qw1cx/credibledefense_daily_megathread_september_24_2023/...
+[2024-09-04 13:25:51,747] [INFO]: 
+[2024-09-04 13:25:51,747] [INFO]: COMMENTS SCRAPER FINISHED IN 9.05 SECONDS.
+[2024-09-04 13:25:51,747] [INFO]: 
+[2024-09-04 13:25:51,747] [INFO]: Exporting to JSON.
+[2024-09-04 13:25:51,747] [INFO]: 
+[2024-09-04 13:25:51,747] [INFO]: URS COMPLETED IN 10.40 SECONDS.
+
+[2024-09-04 13:25:52,237] [INFO]: INITIALIZING URS.
+[2024-09-04 13:25:52,237] [INFO]: 
+[2024-09-04 13:25:53,742] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:25:53,743] [INFO]: Remaining requests: 943.0
+[2024-09-04 13:25:53,743] [INFO]: Used requests: 57
+[2024-09-04 13:25:53,743] [INFO]: 
+[2024-09-04 13:25:53,744] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:25:53,744] [INFO]: 
+[2024-09-04 13:25:53,744] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:25:53,744] [INFO]: 
+[2024-09-04 13:25:53,749] [INFO]: Validating submission(s)...
+[2024-09-04 13:25:53,749] [INFO]: 
+[2024-09-04 13:26:02,198] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:26:02,221] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16bie0u/credibledefense_daily_megathread_september_06_2023/...
+[2024-09-04 13:26:02,221] [INFO]: 
+[2024-09-04 13:26:02,221] [INFO]: COMMENTS SCRAPER FINISHED IN 8.48 SECONDS.
+[2024-09-04 13:26:02,221] [INFO]: 
+[2024-09-04 13:26:02,221] [INFO]: Exporting to JSON.
+[2024-09-04 13:26:02,221] [INFO]: 
+[2024-09-04 13:26:02,221] [INFO]: URS COMPLETED IN 9.98 SECONDS.
+
+[2024-09-04 13:26:02,733] [INFO]: INITIALIZING URS.
+[2024-09-04 13:26:02,733] [INFO]: 
+[2024-09-04 13:26:03,904] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:26:03,905] [INFO]: Remaining requests: 935.0
+[2024-09-04 13:26:03,905] [INFO]: Used requests: 65
+[2024-09-04 13:26:03,905] [INFO]: 
+[2024-09-04 13:26:03,906] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:26:03,906] [INFO]: 
+[2024-09-04 13:26:03,906] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:26:03,906] [INFO]: 
+[2024-09-04 13:26:03,909] [INFO]: Validating submission(s)...
+[2024-09-04 13:26:03,910] [INFO]: 
+[2024-09-04 13:26:12,948] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:26:12,968] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16njh77/credibledefense_daily_megathread_september_20_2023/...
+[2024-09-04 13:26:12,968] [INFO]: 
+[2024-09-04 13:26:12,968] [INFO]: COMMENTS SCRAPER FINISHED IN 9.06 SECONDS.
+[2024-09-04 13:26:12,968] [INFO]: 
+[2024-09-04 13:26:12,968] [INFO]: Exporting to JSON.
+[2024-09-04 13:26:12,968] [INFO]: 
+[2024-09-04 13:26:12,968] [INFO]: URS COMPLETED IN 10.24 SECONDS.
+
+[2024-09-04 13:26:13,437] [INFO]: INITIALIZING URS.
+[2024-09-04 13:26:13,437] [INFO]: 
+[2024-09-04 13:26:14,945] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:26:14,946] [INFO]: Remaining requests: 927.0
+[2024-09-04 13:26:14,946] [INFO]: Used requests: 73
+[2024-09-04 13:26:14,946] [INFO]: 
+[2024-09-04 13:26:14,947] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:26:14,947] [INFO]: 
+[2024-09-04 13:26:14,948] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:26:14,948] [INFO]: 
+[2024-09-04 13:26:14,953] [INFO]: Validating submission(s)...
+[2024-09-04 13:26:14,953] [INFO]: 
+[2024-09-04 13:26:23,101] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:26:23,123] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16ambep/credibledefense_daily_megathread_september_05_2023/...
+[2024-09-04 13:26:23,123] [INFO]: 
+[2024-09-04 13:26:23,123] [INFO]: COMMENTS SCRAPER FINISHED IN 8.18 SECONDS.
+[2024-09-04 13:26:23,123] [INFO]: 
+[2024-09-04 13:26:23,123] [INFO]: Exporting to JSON.
+[2024-09-04 13:26:23,123] [INFO]: 
+[2024-09-04 13:26:23,123] [INFO]: URS COMPLETED IN 9.69 SECONDS.
+
+[2024-09-04 13:26:23,581] [INFO]: INITIALIZING URS.
+[2024-09-04 13:26:23,581] [INFO]: 
+[2024-09-04 13:26:24,762] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:26:24,763] [INFO]: Remaining requests: 920.0
+[2024-09-04 13:26:24,763] [INFO]: Used requests: 80
+[2024-09-04 13:26:24,763] [INFO]: 
+[2024-09-04 13:26:24,764] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:26:24,764] [INFO]: 
+[2024-09-04 13:26:24,764] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:26:24,765] [INFO]: 
+[2024-09-04 13:26:24,769] [INFO]: Validating submission(s)...
+[2024-09-04 13:26:24,769] [INFO]: 
+[2024-09-04 13:26:34,282] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:26:34,303] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16p8gq4/credibledefense_daily_megathread_september_22_2023/...
+[2024-09-04 13:26:34,303] [INFO]: 
+[2024-09-04 13:26:34,303] [INFO]: COMMENTS SCRAPER FINISHED IN 9.54 SECONDS.
+[2024-09-04 13:26:34,303] [INFO]: 
+[2024-09-04 13:26:34,303] [INFO]: Exporting to JSON.
+[2024-09-04 13:26:34,303] [INFO]: 
+[2024-09-04 13:26:34,303] [INFO]: URS COMPLETED IN 10.72 SECONDS.
+
+[2024-09-04 13:26:34,771] [INFO]: INITIALIZING URS.
+[2024-09-04 13:26:34,771] [INFO]: 
+[2024-09-04 13:26:36,039] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:26:36,039] [INFO]: Remaining requests: 913.0
+[2024-09-04 13:26:36,039] [INFO]: Used requests: 87
+[2024-09-04 13:26:36,039] [INFO]: 
+[2024-09-04 13:26:36,040] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:26:36,040] [INFO]: 
+[2024-09-04 13:26:36,040] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:26:36,040] [INFO]: 
+[2024-09-04 13:26:36,041] [INFO]: Validating submission(s)...
+[2024-09-04 13:26:36,041] [INFO]: 
+[2024-09-04 13:26:44,547] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:26:44,563] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16tin6t/credibledefense_daily_megathread_september_27_2023/...
+[2024-09-04 13:26:44,563] [INFO]: 
+[2024-09-04 13:26:44,563] [INFO]: COMMENTS SCRAPER FINISHED IN 8.52 SECONDS.
+[2024-09-04 13:26:44,563] [INFO]: 
+[2024-09-04 13:26:44,563] [INFO]: Exporting to JSON.
+[2024-09-04 13:26:44,563] [INFO]: 
+[2024-09-04 13:26:44,563] [INFO]: URS COMPLETED IN 9.79 SECONDS.
+
+[2024-09-04 13:26:45,012] [INFO]: INITIALIZING URS.
+[2024-09-04 13:26:45,012] [INFO]: 
+[2024-09-04 13:26:46,930] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:26:46,930] [INFO]: Remaining requests: 905.0
+[2024-09-04 13:26:46,930] [INFO]: Used requests: 95
+[2024-09-04 13:26:46,930] [INFO]: 
+[2024-09-04 13:26:46,931] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:26:46,931] [INFO]: 
+[2024-09-04 13:26:46,931] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:26:46,931] [INFO]: 
+[2024-09-04 13:26:46,934] [INFO]: Validating submission(s)...
+[2024-09-04 13:26:46,934] [INFO]: 
+[2024-09-04 13:26:55,265] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:26:55,285] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16v9prt/credibledefense_daily_megathread_september_29_2023/...
+[2024-09-04 13:26:55,285] [INFO]: 
+[2024-09-04 13:26:55,285] [INFO]: COMMENTS SCRAPER FINISHED IN 8.35 SECONDS.
+[2024-09-04 13:26:55,285] [INFO]: 
+[2024-09-04 13:26:55,285] [INFO]: Exporting to JSON.
+[2024-09-04 13:26:55,285] [INFO]: 
+[2024-09-04 13:26:55,285] [INFO]: URS COMPLETED IN 10.27 SECONDS.
+
+[2024-09-04 13:26:55,819] [INFO]: INITIALIZING URS.
+[2024-09-04 13:26:55,819] [INFO]: 
+[2024-09-04 13:26:57,079] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:26:57,079] [INFO]: Remaining requests: 899.0
+[2024-09-04 13:26:57,080] [INFO]: Used requests: 101
+[2024-09-04 13:26:57,080] [INFO]: 
+[2024-09-04 13:26:57,080] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:26:57,080] [INFO]: 
+[2024-09-04 13:26:57,080] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:26:57,080] [INFO]: 
+[2024-09-04 13:26:57,083] [INFO]: Validating submission(s)...
+[2024-09-04 13:26:57,083] [INFO]: 
+[2024-09-04 13:27:02,318] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:27:02,332] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16jbeyd/credibledefense_daily_megathread_september_15_2023/...
+[2024-09-04 13:27:02,332] [INFO]: 
+[2024-09-04 13:27:02,332] [INFO]: COMMENTS SCRAPER FINISHED IN 5.25 SECONDS.
+[2024-09-04 13:27:02,332] [INFO]: 
+[2024-09-04 13:27:02,332] [INFO]: Exporting to JSON.
+[2024-09-04 13:27:02,332] [INFO]: 
+[2024-09-04 13:27:02,332] [INFO]: URS COMPLETED IN 6.51 SECONDS.
+
+[2024-09-04 13:27:02,866] [INFO]: INITIALIZING URS.
+[2024-09-04 13:27:02,867] [INFO]: 
+[2024-09-04 13:27:04,127] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:27:04,127] [INFO]: Remaining requests: 896.0
+[2024-09-04 13:27:04,127] [INFO]: Used requests: 104
+[2024-09-04 13:27:04,127] [INFO]: 
+[2024-09-04 13:27:04,128] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:27:04,128] [INFO]: 
+[2024-09-04 13:27:04,128] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:27:04,128] [INFO]: 
+[2024-09-04 13:27:04,131] [INFO]: Validating submission(s)...
+[2024-09-04 13:27:04,131] [INFO]: 
+[2024-09-04 13:27:11,775] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:27:11,798] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16ltn6y/credibledefense_daily_megathread_september_18_2023/...
+[2024-09-04 13:27:11,798] [INFO]: 
+[2024-09-04 13:27:11,798] [INFO]: COMMENTS SCRAPER FINISHED IN 7.67 SECONDS.
+[2024-09-04 13:27:11,798] [INFO]: 
+[2024-09-04 13:27:11,798] [INFO]: Exporting to JSON.
+[2024-09-04 13:27:11,798] [INFO]: 
+[2024-09-04 13:27:11,798] [INFO]: URS COMPLETED IN 8.93 SECONDS.
+
+[2024-09-04 13:27:12,285] [INFO]: INITIALIZING URS.
+[2024-09-04 13:27:12,285] [INFO]: 
+[2024-09-04 13:27:13,710] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:27:13,711] [INFO]: Remaining requests: 889.0
+[2024-09-04 13:27:13,711] [INFO]: Used requests: 111
+[2024-09-04 13:27:13,711] [INFO]: 
+[2024-09-04 13:27:13,712] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:27:13,712] [INFO]: 
+[2024-09-04 13:27:13,712] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:27:13,712] [INFO]: 
+[2024-09-04 13:27:13,717] [INFO]: Validating submission(s)...
+[2024-09-04 13:27:13,717] [INFO]: 
+[2024-09-04 13:27:19,785] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:27:19,803] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16igjqg/credibledefense_daily_megathread_september_14_2023/...
+[2024-09-04 13:27:19,803] [INFO]: 
+[2024-09-04 13:27:19,803] [INFO]: COMMENTS SCRAPER FINISHED IN 6.09 SECONDS.
+[2024-09-04 13:27:19,803] [INFO]: 
+[2024-09-04 13:27:19,803] [INFO]: Exporting to JSON.
+[2024-09-04 13:27:19,803] [INFO]: 
+[2024-09-04 13:27:19,803] [INFO]: URS COMPLETED IN 7.52 SECONDS.
+
+[2024-09-04 13:27:20,243] [INFO]: INITIALIZING URS.
+[2024-09-04 13:27:20,243] [INFO]: 
+[2024-09-04 13:27:21,504] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:27:21,504] [INFO]: Remaining requests: 885.0
+[2024-09-04 13:27:21,505] [INFO]: Used requests: 115
+[2024-09-04 13:27:21,505] [INFO]: 
+[2024-09-04 13:27:21,505] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:27:21,505] [INFO]: 
+[2024-09-04 13:27:21,505] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:27:21,505] [INFO]: 
+[2024-09-04 13:27:21,509] [INFO]: Validating submission(s)...
+[2024-09-04 13:27:21,509] [INFO]: 
+[2024-09-04 13:27:28,877] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:27:28,895] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16ce0oy/credibledefense_daily_megathread_september_07_2023/...
+[2024-09-04 13:27:28,895] [INFO]: 
+[2024-09-04 13:27:28,895] [INFO]: COMMENTS SCRAPER FINISHED IN 7.39 SECONDS.
+[2024-09-04 13:27:28,895] [INFO]: 
+[2024-09-04 13:27:28,895] [INFO]: Exporting to JSON.
+[2024-09-04 13:27:28,895] [INFO]: 
+[2024-09-04 13:27:28,895] [INFO]: URS COMPLETED IN 8.65 SECONDS.
+
+[2024-09-04 13:27:29,416] [INFO]: INITIALIZING URS.
+[2024-09-04 13:27:29,416] [INFO]: 
+[2024-09-04 13:27:30,760] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:27:30,760] [INFO]: Remaining requests: 877.0
+[2024-09-04 13:27:30,760] [INFO]: Used requests: 123
+[2024-09-04 13:27:30,760] [INFO]: 
+[2024-09-04 13:27:30,761] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:27:30,761] [INFO]: 
+[2024-09-04 13:27:30,761] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:27:30,761] [INFO]: 
+[2024-09-04 13:27:30,763] [INFO]: Validating submission(s)...
+[2024-09-04 13:27:30,764] [INFO]: 
+[2024-09-04 13:27:39,740] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:27:39,762] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16d8pl8/credibledefense_daily_megathread_september_08_2023/...
+[2024-09-04 13:27:39,762] [INFO]: 
+[2024-09-04 13:27:39,762] [INFO]: COMMENTS SCRAPER FINISHED IN 9.00 SECONDS.
+[2024-09-04 13:27:39,762] [INFO]: 
+[2024-09-04 13:27:39,762] [INFO]: Exporting to JSON.
+[2024-09-04 13:27:39,762] [INFO]: 
+[2024-09-04 13:27:39,762] [INFO]: URS COMPLETED IN 10.35 SECONDS.
+
+[2024-09-04 13:27:40,239] [INFO]: INITIALIZING URS.
+[2024-09-04 13:27:40,239] [INFO]: 
+[2024-09-04 13:27:41,506] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:27:41,506] [INFO]: Remaining requests: 867.0
+[2024-09-04 13:27:41,506] [INFO]: Used requests: 133
+[2024-09-04 13:27:41,506] [INFO]: 
+[2024-09-04 13:27:41,507] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:27:41,507] [INFO]: 
+[2024-09-04 13:27:41,507] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:27:41,507] [INFO]: 
+[2024-09-04 13:27:41,511] [INFO]: Validating submission(s)...
+[2024-09-04 13:27:41,512] [INFO]: 
+[2024-09-04 13:27:48,273] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:27:48,292] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16fthke/credibledefense_daily_megathread_september_11_2023/...
+[2024-09-04 13:27:48,292] [INFO]: 
+[2024-09-04 13:27:48,292] [INFO]: COMMENTS SCRAPER FINISHED IN 6.78 SECONDS.
+[2024-09-04 13:27:48,292] [INFO]: 
+[2024-09-04 13:27:48,292] [INFO]: Exporting to JSON.
+[2024-09-04 13:27:48,292] [INFO]: 
+[2024-09-04 13:27:48,292] [INFO]: URS COMPLETED IN 8.05 SECONDS.
+
+[2024-09-04 13:27:48,771] [INFO]: INITIALIZING URS.
+[2024-09-04 13:27:48,771] [INFO]: 
+[2024-09-04 13:27:50,016] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:27:50,017] [INFO]: Remaining requests: 860.0
+[2024-09-04 13:27:50,017] [INFO]: Used requests: 140
+[2024-09-04 13:27:50,017] [INFO]: 
+[2024-09-04 13:27:50,019] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:27:50,019] [INFO]: 
+[2024-09-04 13:27:50,019] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:27:50,019] [INFO]: 
+[2024-09-04 13:27:50,024] [INFO]: Validating submission(s)...
+[2024-09-04 13:27:50,024] [INFO]: 
+[2024-09-04 13:27:54,860] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:27:54,876] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16hl5yb/credibledefense_daily_megathread_september_13_2023/...
+[2024-09-04 13:27:54,876] [INFO]: 
+[2024-09-04 13:27:54,876] [INFO]: COMMENTS SCRAPER FINISHED IN 4.86 SECONDS.
+[2024-09-04 13:27:54,876] [INFO]: 
+[2024-09-04 13:27:54,876] [INFO]: Exporting to JSON.
+[2024-09-04 13:27:54,876] [INFO]: 
+[2024-09-04 13:27:54,876] [INFO]: URS COMPLETED IN 6.10 SECONDS.
+
+[2024-09-04 13:27:55,331] [INFO]: INITIALIZING URS.
+[2024-09-04 13:27:55,331] [INFO]: 
+[2024-09-04 13:27:56,675] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:27:56,676] [INFO]: Remaining requests: 856.0
+[2024-09-04 13:27:56,676] [INFO]: Used requests: 144
+[2024-09-04 13:27:56,676] [INFO]: 
+[2024-09-04 13:27:56,677] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:27:56,678] [INFO]: 
+[2024-09-04 13:27:56,678] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:27:56,678] [INFO]: 
+[2024-09-04 13:27:56,684] [INFO]: Validating submission(s)...
+[2024-09-04 13:27:56,684] [INFO]: 
+[2024-09-04 13:28:03,035] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:28:03,051] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16758b1/credibledefense_daily_megathread_september_01_2023/...
+[2024-09-04 13:28:03,051] [INFO]: 
+[2024-09-04 13:28:03,051] [INFO]: COMMENTS SCRAPER FINISHED IN 6.37 SECONDS.
+[2024-09-04 13:28:03,051] [INFO]: 
+[2024-09-04 13:28:03,051] [INFO]: Exporting to JSON.
+[2024-09-04 13:28:03,051] [INFO]: 
+[2024-09-04 13:28:03,051] [INFO]: URS COMPLETED IN 7.72 SECONDS.
+
+[2024-09-04 13:28:03,492] [INFO]: INITIALIZING URS.
+[2024-09-04 13:28:03,492] [INFO]: 
+[2024-09-04 13:28:04,747] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:28:04,748] [INFO]: Remaining requests: 852.0
+[2024-09-04 13:28:04,748] [INFO]: Used requests: 148
+[2024-09-04 13:28:04,748] [INFO]: 
+[2024-09-04 13:28:04,750] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:28:04,750] [INFO]: 
+[2024-09-04 13:28:04,751] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:28:04,751] [INFO]: 
+[2024-09-04 13:28:04,757] [INFO]: Validating submission(s)...
+[2024-09-04 13:28:04,757] [INFO]: 
+[2024-09-04 13:28:09,772] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:28:09,788] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/169q68x/credibledefense_daily_megathread_september_04_2023/...
+[2024-09-04 13:28:09,788] [INFO]: 
+[2024-09-04 13:28:09,788] [INFO]: COMMENTS SCRAPER FINISHED IN 5.04 SECONDS.
+[2024-09-04 13:28:09,788] [INFO]: 
+[2024-09-04 13:28:09,788] [INFO]: Exporting to JSON.
+[2024-09-04 13:28:09,788] [INFO]: 
+[2024-09-04 13:28:09,788] [INFO]: URS COMPLETED IN 6.30 SECONDS.
+
+[2024-09-04 13:28:10,394] [INFO]: INITIALIZING URS.
+[2024-09-04 13:28:10,394] [INFO]: 
+[2024-09-04 13:28:11,647] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:28:11,647] [INFO]: Remaining requests: 849.0
+[2024-09-04 13:28:11,647] [INFO]: Used requests: 151
+[2024-09-04 13:28:11,647] [INFO]: 
+[2024-09-04 13:28:11,648] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:28:11,648] [INFO]: 
+[2024-09-04 13:28:11,648] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:28:11,648] [INFO]: 
+[2024-09-04 13:28:11,649] [INFO]: Validating submission(s)...
+[2024-09-04 13:28:11,649] [INFO]: 
+[2024-09-04 13:28:17,415] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:28:17,433] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16w500v/credibledefense_daily_megathread_september_30_2023/...
+[2024-09-04 13:28:17,433] [INFO]: 
+[2024-09-04 13:28:17,433] [INFO]: COMMENTS SCRAPER FINISHED IN 5.79 SECONDS.
+[2024-09-04 13:28:17,433] [INFO]: 
+[2024-09-04 13:28:17,433] [INFO]: Exporting to JSON.
+[2024-09-04 13:28:17,433] [INFO]: 
+[2024-09-04 13:28:17,433] [INFO]: URS COMPLETED IN 7.04 SECONDS.
+
+[2024-09-04 13:28:17,893] [INFO]: INITIALIZING URS.
+[2024-09-04 13:28:17,893] [INFO]: 
+[2024-09-04 13:28:19,156] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:28:19,156] [INFO]: Remaining requests: 846.0
+[2024-09-04 13:28:19,156] [INFO]: Used requests: 154
+[2024-09-04 13:28:19,156] [INFO]: 
+[2024-09-04 13:28:19,157] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:28:19,157] [INFO]: 
+[2024-09-04 13:28:19,157] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:28:19,157] [INFO]: 
+[2024-09-04 13:28:19,162] [INFO]: Validating submission(s)...
+[2024-09-04 13:28:19,162] [INFO]: 
+[2024-09-04 13:28:26,867] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:28:26,888] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/1680nup/credibledefense_daily_megathread_september_02_2023/...
+[2024-09-04 13:28:26,888] [INFO]: 
+[2024-09-04 13:28:26,888] [INFO]: COMMENTS SCRAPER FINISHED IN 7.73 SECONDS.
+[2024-09-04 13:28:26,888] [INFO]: 
+[2024-09-04 13:28:26,888] [INFO]: Exporting to JSON.
+[2024-09-04 13:28:26,888] [INFO]: 
+[2024-09-04 13:28:26,888] [INFO]: URS COMPLETED IN 9.00 SECONDS.
+
+[2024-09-04 13:28:27,321] [INFO]: INITIALIZING URS.
+[2024-09-04 13:28:27,321] [INFO]: 
+[2024-09-04 13:28:28,653] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:28:28,653] [INFO]: Remaining requests: 836.0
+[2024-09-04 13:28:28,653] [INFO]: Used requests: 164
+[2024-09-04 13:28:28,653] [INFO]: 
+[2024-09-04 13:28:28,653] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:28:28,653] [INFO]: 
+[2024-09-04 13:28:28,654] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:28:28,654] [INFO]: 
+[2024-09-04 13:28:28,655] [INFO]: Validating submission(s)...
+[2024-09-04 13:28:28,655] [INFO]: 
+[2024-09-04 13:28:34,990] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:28:35,008] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16ue3tf/credibledefense_daily_megathread_september_28_2023/...
+[2024-09-04 13:28:35,008] [INFO]: 
+[2024-09-04 13:28:35,008] [INFO]: COMMENTS SCRAPER FINISHED IN 6.35 SECONDS.
+[2024-09-04 13:28:35,008] [INFO]: 
+[2024-09-04 13:28:35,008] [INFO]: Exporting to JSON.
+[2024-09-04 13:28:35,008] [INFO]: 
+[2024-09-04 13:28:35,008] [INFO]: URS COMPLETED IN 7.69 SECONDS.
+
+[2024-09-04 13:28:35,438] [INFO]: INITIALIZING URS.
+[2024-09-04 13:28:35,438] [INFO]: 
+[2024-09-04 13:28:36,872] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:28:36,873] [INFO]: Remaining requests: 831.0
+[2024-09-04 13:28:36,873] [INFO]: Used requests: 169
+[2024-09-04 13:28:36,873] [INFO]: 
+[2024-09-04 13:28:36,874] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:28:36,874] [INFO]: 
+[2024-09-04 13:28:36,874] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:28:36,874] [INFO]: 
+[2024-09-04 13:28:36,879] [INFO]: Validating submission(s)...
+[2024-09-04 13:28:36,879] [INFO]: 
+[2024-09-04 13:28:43,101] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:28:43,117] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16kyw50/credibledefense_daily_megathread_september_17_2023/...
+[2024-09-04 13:28:43,117] [INFO]: 
+[2024-09-04 13:28:43,117] [INFO]: COMMENTS SCRAPER FINISHED IN 6.24 SECONDS.
+[2024-09-04 13:28:43,117] [INFO]: 
+[2024-09-04 13:28:43,117] [INFO]: Exporting to JSON.
+[2024-09-04 13:28:43,117] [INFO]: 
+[2024-09-04 13:28:43,117] [INFO]: URS COMPLETED IN 7.68 SECONDS.
+
+[2024-09-04 13:28:43,603] [INFO]: INITIALIZING URS.
+[2024-09-04 13:28:43,603] [INFO]: 
+[2024-09-04 13:28:44,872] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:28:44,872] [INFO]: Remaining requests: 824.0
+[2024-09-04 13:28:44,872] [INFO]: Used requests: 176
+[2024-09-04 13:28:44,872] [INFO]: 
+[2024-09-04 13:28:44,872] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:28:44,872] [INFO]: 
+[2024-09-04 13:28:44,872] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:28:44,873] [INFO]: 
+[2024-09-04 13:28:44,875] [INFO]: Validating submission(s)...
+[2024-09-04 13:28:44,875] [INFO]: 
+[2024-09-04 13:28:50,563] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:28:50,579] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16gpiqf/credibledefense_daily_megathread_september_12_2023/...
+[2024-09-04 13:28:50,579] [INFO]: 
+[2024-09-04 13:28:50,579] [INFO]: COMMENTS SCRAPER FINISHED IN 5.71 SECONDS.
+[2024-09-04 13:28:50,579] [INFO]: 
+[2024-09-04 13:28:50,579] [INFO]: Exporting to JSON.
+[2024-09-04 13:28:50,579] [INFO]: 
+[2024-09-04 13:28:50,579] [INFO]: URS COMPLETED IN 6.98 SECONDS.
+
+[2024-09-04 13:28:51,024] [INFO]: INITIALIZING URS.
+[2024-09-04 13:28:51,024] [INFO]: 
+[2024-09-04 13:28:52,279] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:28:52,279] [INFO]: Remaining requests: 821.0
+[2024-09-04 13:28:52,279] [INFO]: Used requests: 179
+[2024-09-04 13:28:52,280] [INFO]: 
+[2024-09-04 13:28:52,281] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:28:52,281] [INFO]: 
+[2024-09-04 13:28:52,281] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:28:52,281] [INFO]: 
+[2024-09-04 13:28:52,285] [INFO]: Validating submission(s)...
+[2024-09-04 13:28:52,285] [INFO]: 
+[2024-09-04 13:28:56,689] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:28:56,703] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16eyjo3/credibledefense_daily_megathread_september_10_2023/...
+[2024-09-04 13:28:56,703] [INFO]: 
+[2024-09-04 13:28:56,703] [INFO]: COMMENTS SCRAPER FINISHED IN 4.42 SECONDS.
+[2024-09-04 13:28:56,703] [INFO]: 
+[2024-09-04 13:28:56,703] [INFO]: Exporting to JSON.
+[2024-09-04 13:28:56,703] [INFO]: 
+[2024-09-04 13:28:56,703] [INFO]: URS COMPLETED IN 5.68 SECONDS.
+
+[2024-09-04 13:28:57,197] [INFO]: INITIALIZING URS.
+[2024-09-04 13:28:57,197] [INFO]: 
+[2024-09-04 13:28:58,632] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:28:58,632] [INFO]: Remaining requests: 818.0
+[2024-09-04 13:28:58,632] [INFO]: Used requests: 182
+[2024-09-04 13:28:58,633] [INFO]: 
+[2024-09-04 13:28:58,634] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:28:58,634] [INFO]: 
+[2024-09-04 13:28:58,634] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:28:58,634] [INFO]: 
+[2024-09-04 13:28:58,639] [INFO]: Validating submission(s)...
+[2024-09-04 13:28:58,639] [INFO]: 
+[2024-09-04 13:29:02,856] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:29:02,868] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16k5s9h/credibledefense_daily_megathread_september_16_2023/...
+[2024-09-04 13:29:02,868] [INFO]: 
+[2024-09-04 13:29:02,868] [INFO]: COMMENTS SCRAPER FINISHED IN 4.23 SECONDS.
+[2024-09-04 13:29:02,868] [INFO]: 
+[2024-09-04 13:29:02,868] [INFO]: Exporting to JSON.
+[2024-09-04 13:29:02,868] [INFO]: 
+[2024-09-04 13:29:02,868] [INFO]: URS COMPLETED IN 5.67 SECONDS.
+
+[2024-09-04 13:29:03,337] [INFO]: INITIALIZING URS.
+[2024-09-04 13:29:03,337] [INFO]: 
+[2024-09-04 13:29:04,679] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:29:04,679] [INFO]: Remaining requests: 815.0
+[2024-09-04 13:29:04,679] [INFO]: Used requests: 185
+[2024-09-04 13:29:04,679] [INFO]: 
+[2024-09-04 13:29:04,679] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:29:04,679] [INFO]: 
+[2024-09-04 13:29:04,679] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:29:04,679] [INFO]: 
+[2024-09-04 13:29:04,681] [INFO]: Validating submission(s)...
+[2024-09-04 13:29:04,681] [INFO]: 
+[2024-09-04 13:29:09,402] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:29:09,416] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16e3z08/credibledefense_daily_megathread_september_09_2023/...
+[2024-09-04 13:29:09,416] [INFO]: 
+[2024-09-04 13:29:09,416] [INFO]: COMMENTS SCRAPER FINISHED IN 4.74 SECONDS.
+[2024-09-04 13:29:09,416] [INFO]: 
+[2024-09-04 13:29:09,416] [INFO]: Exporting to JSON.
+[2024-09-04 13:29:09,416] [INFO]: 
+[2024-09-04 13:29:09,416] [INFO]: URS COMPLETED IN 6.08 SECONDS.
+
+[2024-09-04 13:29:09,874] [INFO]: INITIALIZING URS.
+[2024-09-04 13:29:09,874] [INFO]: 
+[2024-09-04 13:29:11,136] [INFO]: RATE LIMIT DISPLAYED.
+[2024-09-04 13:29:11,136] [INFO]: Remaining requests: 810.0
+[2024-09-04 13:29:11,136] [INFO]: Used requests: 190
+[2024-09-04 13:29:11,136] [INFO]: 
+[2024-09-04 13:29:11,136] [INFO]: Successfully logged in as u/stult.
+[2024-09-04 13:29:11,136] [INFO]: 
+[2024-09-04 13:29:11,136] [INFO]: RUNNING COMMENTS SCRAPER.
+[2024-09-04 13:29:11,136] [INFO]: 
+[2024-09-04 13:29:11,137] [INFO]: Validating submission(s)...
+[2024-09-04 13:29:11,137] [INFO]: 
+[2024-09-04 13:29:14,946] [INFO]: Exporting all comments in structured format.
+[2024-09-04 13:29:14,955] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/CredibleDefense/comments/16q2p0u/credibledefense_daily_megathread_september_23_2023/...
+[2024-09-04 13:29:14,956] [INFO]: 
+[2024-09-04 13:29:14,956] [INFO]: COMMENTS SCRAPER FINISHED IN 3.82 SECONDS.
+[2024-09-04 13:29:14,956] [INFO]: 
+[2024-09-04 13:29:14,956] [INFO]: Exporting to JSON.
+[2024-09-04 13:29:14,956] [INFO]: 
+[2024-09-04 13:29:14,956] [INFO]: URS COMPLETED IN 5.08 SECONDS.
+
